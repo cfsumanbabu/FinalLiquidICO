@@ -19,11 +19,11 @@
 <li>Total tokens 40,000,000</li>
 <li>Pre-Sale Discount 50% discount</li>
 <li>Pre-Sale Dates Start - 07/23/2018 @ 05:30pm (IST) End End - 07/24/2018 @ 5:30pm (IST)</li>
-<li>Pre-SaleSoft cap 4,000,000 LIQUID (failure to meet cap may result in delays)</li>
+<li>Pre-SaleSoft cap 4,000,000 LIQUID </li>
 <li>Pre-Sale Hard cap 16,000,000 LIQUID</li>
 <li>ITO Price 1 LIQUID = .00294736842105 ETH ($1.40 USD)</li>
 <li>ITO Dates Start -07/25/2018 @ 11:30 am (IST) End 07/26/2018 @ 5:3pm (IST)</li>
-<li>ITO Soft cap 6,000,000 LIQUID LIQUID (failure to meet cap may result in delays)</li>
+<li>ITO Soft cap 6,000,000 LIQUID LIQUID </li>
 <li>ITO Hard cap 24,000,000 LIQUID</li>
 <li>Bonus Available 50,000 5%; 100,000 10%; 200,000 15%</li>
 <li>Whitelist YES (Admin can run this function wtih using investor ethereum address</li>
